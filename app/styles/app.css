@@ -42,7 +42,27 @@
   padding-top: 2%;
   font-size: 15px;
 }
+
 .reviews {
   text-align: center;
   margin-bottom: 50px;
+}
+
+.rental-deet {
+  text-align: center;
+}
+
+.rental-img {
+  max-width: 50%;
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.announcement {
+  text-align: center;
+}
+
+.announcement p {
+  font-size: 20px;
 }
