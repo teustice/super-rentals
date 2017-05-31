@@ -13,18 +13,3 @@
 
   {{new-rental saveRental2="saveRental3"}}
 </div>
-
-<div class="reviews">
-
-<h2>All Reviews</h2>
-
-  {{#each model.reviews as |review|}}
-  <div class="review">
-    <p>
-      <em>{{review.content}}</em> ~{{review.author}}
-    </p>
-  </div>
-  {{/each}}
-
-  {{new-review saveReview="saveReview"}}
-</div>
