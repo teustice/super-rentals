@@ -3,7 +3,9 @@
 This README outlines the details of collaborating on this Ember application.
 This app allows the user to create rental properties, leave comments and edit rental properties.
 
-This RePo is dead.
+This RePo is dead. 
+
+# We need to bring this back to life
 
 ![](https://github.com/PiKatso/super-rental/blob/master/public/assets/images/screenshot.png)
 
